@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/logo.jpg" alt="Eva Maria Logo">
+  <img src="https://telegra.ph/file/266b35436fe88f692c849.jpg" alt="LXR Evamaria Bot">
 </p>
 <h1 align="center">
-  <b>Eva Maria Bot</b>
+  <b>LXR Evamaria Bot</b>
 </h1>
 
 
