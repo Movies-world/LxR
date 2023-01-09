@@ -110,6 +110,7 @@ python3 bot.py
 
 ## Credits 
 * [![LXR-YOUTUBER](https://img.shields.io/static/v1?label=LXR&message=YOUTUBER&color=critical)](https://telegram.dog/LXRBOTSGROUP)
+* [![Crazy-Abhishek](https://img.shields.io/static/v1?label=Crazy&message=Abhishek&color=critical)](https://telegram.dog/LXRBOTSGROUP)
 
 
 ## Thanks to 
