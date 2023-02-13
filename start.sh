@@ -9,4 +9,4 @@ fi
 cd /app
 pip3 install -U -r requirements.txt
 echo "Starting LXR BY LXR_YOUTUBER 🔥🎉...."
-python3 bot.py
+python3 LXR.py
